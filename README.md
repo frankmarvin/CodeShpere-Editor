@@ -71,30 +71,68 @@ Deployable on Vercel, Netlify, GitHub Pages, or a VPS.
 ---
 
 
-📦 Installation
-Bash
-Copy code
-# Clone repository
+## 📦 Installation
+
+1️⃣ Clone dependencies
+
+```Bash
 git clone https://github.com/frankmarvin/CodeShpere-Editor.git
-# Enter project directory
 cd CodeShpere-Editor
-# Install dependencies
+
+2️⃣ Install dependencies
+
+```Bash
 npm install
-# Start development server
+
+3️⃣ Start development server
+
+```Bash
 npm run dev
+
 Visit: http://localhost:5173
+
+
+---
+
+
 🔮 Roadmap
-✅ Multi-language support
-🔜 Real-time collaboration (WebSockets)
-🔜 Cloud file storage integration
-🔜 AI assistant panel
-🔜 Plugin marketplace
-🔜 In-browser execution sandbox
+
+[ ] ✅ Multi-language support
+[ ] 🔜 Real-time collaboration (WebSockets)
+[ ] 🔜 Cloud file storage integration
+[ ] 🔜 AI assistant panel
+[ ] 🔜 Plugin marketplace
+[ ] 🔜 In-browser execution sandbox
+
+
+---
+
+
 🤝 Contribution
+
 Contributions, suggestions, and improvements are welcome.
 Fork the project
 Create your feature branch
+Commit your changes
+Submit a Pull Request
+Don’t forget to ⭐ star the project!
 
 
+---
 
 
+💡 Vision
+
+CodeSphere aims to become a full-featured, browser-based development platform that merges real-time collaboration with live server execution — giving developers a powerful, portable, and interactive coding workspace anywhere in the world.
+
+---
+
+👨‍💻 Developer
+
+Frank Marvin ❤️
+
+GitHub: @frankmarvin
+
+Project: CodeSphere-Editor
+
+Made with ❤️ in Kenya 🇰🇪
