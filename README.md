@@ -1,14 +1,24 @@
-CodeSphere Editor
-I’m Frank Marvin — welcome to CodeSphere Editor, a modern, extensible, browser-based code editor built with scalable front-end technologies.
+🌐 CodeSphere Editor
+
+Welcome to CodeSphere Editor, this is a modern, extensible, browser-based code editor built with scalable front-end technologies.
+
 CodeSphere focuses on performance, modular architecture, AI integration readiness, and real-time collaboration capabilities — making it a strong foundation for building a next-generation cloud IDE.
+
+
+---
+
+
 ## 🌍 Live Demo & Repository
 
 _ **🔗 Live Project: Add your deployed link here
+
 _ **📂 GitHub Repository: https://github.com/frankmarvin/CodeShpere-Editor⁠�
 
 
-## 🛡 Badges
+---
 
+
+## 🛡 Badges
 
 ![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript&logoColor=white)
