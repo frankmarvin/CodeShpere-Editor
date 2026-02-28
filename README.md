@@ -121,6 +121,27 @@ Don’t forget to ⭐ star the project!
 ---
 
 
+## 📜 License
+
+MIT License © 2026 Frank Marvin
+
+---
+
+## 🔐 Security & Compliance
+
+- [Security Policy](SECURITY.md)
+- [Threat Model](THREAT_MODEL.md)
+- [Secure Architecture](ARCHITECTURE_SECURITY.md)
+- [Privacy Policy](PRIVACY.md)
+- [Terms of Service](TERMS.md)
+- [Secure Coding Guidelines](SECURE_CODING.md)
+- [AI Safety Policy](AI_POLICY.md)
+
+
+---
+
+
+
 💡 Vision
 
 CodeSphere aims to become a full-featured, browser-based development platform that merges real-time collaboration with live server execution — giving developers a powerful, portable, and interactive coding workspace anywhere in the world.
