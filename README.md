@@ -56,15 +56,17 @@ Deployable on Vercel, Netlify, GitHub Pages, or a VPS.
 
 
 ## 🧰 Tech Stack
-|Category|Technology
-Frontend|React (TypeScript)
-Editor Core|Monaco Editor
-Build Tool|Vite
-Styling|Tailwind CSS
-UI Library|shadcn/ui
-Versioning|Git & GitHub
-CI/CD|GitHub Actions
-Deployment|Vercel / Netlify / GitHub Pages
+
+| Category        | Technology                    |
+|------------------|--------------------------------|
+| Frontend         | React (TypeScript)             |
+| Editor Core      | Monaco Editor                  |
+| Build Tool       | Vite                           |
+| Styling          | Tailwind CSS                   |
+| UI Library       | shadcn/ui                      |
+| Versioning       | Git & GitHub                   |
+| CI/CD            | GitHub Actions                 |
+| Deployment       | Vercel / Netlify / GitHub Pages|
 
 
 ---
