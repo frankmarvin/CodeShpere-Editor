@@ -56,8 +56,7 @@ Deployable on Vercel, Netlify, GitHub Pages, or a VPS.
 
 
 ## 🧰 Tech Stack
-
-| Category        | Technology                    |
+| Category        | Technology                    | 
 |------------------|--------------------------------|
 | Frontend         | React (TypeScript)             |
 | Editor Core      | Monaco Editor                  |
