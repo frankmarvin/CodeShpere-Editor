@@ -73,20 +73,20 @@ Deployable on Vercel, Netlify, GitHub Pages, or a VPS.
 
 ## 📦 Installation
 
+
 1️⃣ Clone dependencies
 
 ```Bash
+
 git clone https://github.com/frankmarvin/CodeShpere-Editor.git
 cd CodeShpere-Editor
 
 2️⃣ Install dependencies
 
-```Bash
 npm install
 
 3️⃣ Start development server
 
-```Bash
 npm run dev
 
 Visit: http://localhost:5173
@@ -136,4 +136,4 @@ GitHub: @frankmarvin
 Project: CodeSphere-Editor
 
 Made with ❤️ in Kenya 🇰🇪
-Full-Stack Developer | Web Developer | IT Specialist | Cloud Engineer | Builder of CodeSphere-Code Editor
+Full-Stack Developer | Web Developer | IT Specialist | Cloud Engineer | Builder of CodeSphere-Editor
