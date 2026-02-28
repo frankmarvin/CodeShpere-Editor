@@ -10,7 +10,7 @@ CodeSphere focuses on performance, modular architecture, AI integration readines
 
 ## 🌍 Live Demo & Repository
 
-_ **🔗 Live Project: Add your deployed link here
+_ **🔗 Live Project: https://frankmarvin.github.io/CodeShpere-Editor/
 
 _ **📂 GitHub Repository: https://github.com/frankmarvin/CodeShpere-Editor⁠
 
